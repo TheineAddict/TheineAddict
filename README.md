@@ -34,7 +34,7 @@ I make shipping predictable - without turning QA into a gate or a vibe. 🚀🧪
 
 Null Expected is where I write (and build) around release readiness, QA governance, and delivery decisions - the work that decides whether a team ships safely or just ships loudly. 🔥
 
-If you want the longer-form version, my books are here: <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Andreea Vitan - Author Page</a> 📚
+If you want the longer-form version, my books are here: <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Amazon Author Page</a> 📚
 
 ## A note on how I think 🧠
 
