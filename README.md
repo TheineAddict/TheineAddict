@@ -4,7 +4,7 @@
 
 # Andreea (Ade) Vitan
 
-QA management + release management + technical delivery.  
+Release readiness + QA governance + technical delivery.  
 I make shipping predictable - without turning QA into a gate or a vibe.
 
 <a href="https://nullexpected.com">nullexpected.com</a> • <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Amazon books</a> • <a href="https://www.linkedin.com/in/andreeavitan/">LinkedIn</a>
@@ -14,40 +14,51 @@ I make shipping predictable - without turning QA into a gate or a vibe.
 > Null Expected - A QA thought hub. What did you expect?
 
 <p align="center">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-1F6BFF?style=flat-square&logo=servicenow&logoColor=white" />
+  <img alt="TestRail" src="https://img.shields.io/badge/TestRail-0B6AA2?style=flat-square&logo=testrail&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
 ---
 
 ## Null Expected
 
-Null Expected is where I write and build around QA leadership, test strategy, and release decision-making - the stuff that determines whether a team ships safely or just ships loudly.
+Null Expected is where I write (and build) around release readiness, QA governance, and delivery decision-making - the work that decides whether a team ships safely or just ships loudly.
 
-If you want the longer-form version of my thinking, my books live here: https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN
+If you want the longer-form version, my books live here: https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN
 
-## What I actually do
+## What I do in real teams
 
-I lead quality and releases in environments where “we’ll fix it later” becomes an incident, a rollback, or a very expensive meeting. My focus is delivery control: making scope, risk, readiness, and release decisions visible early enough to change outcomes.
+I sit in the messy middle between product, engineering, and stakeholders, and make delivery risk visible early enough to change outcomes. I’m usually the person wiring together the evidence behind “are we actually ready?”, and making sure the decision is explicit (including what we’re accepting, and why).
 
-That means test strategy that fits the product and the constraints (not generic templates), and release management that treats dependencies, cutovers, and operational risk as first-class problems. I’m comfortable in the messy middle between product, engineering, and stakeholders - where the real work is.
+In practice, that looks like release planning and coordination across squads, dependency and cutover thinking, risk and defect governance that stays focused on impact, and a lightweight but real decision cadence (readiness criteria, quality gates, go/no-go inputs, and clear comms).
+
+I’m a Certified Scrum Master and I’m comfortable facilitating planning, keeping the room aligned, and tightening ways of working without turning everything into ceremony.
 
 ## How I work
 
-I’m not here for QA theatre. I’m here for clarity that holds up under pressure.
+I’m not here for QA theatre. I’m here for signals that hold up under pressure.
 
-I prefer a small number of strong signals over a lot of busywork: what can break, how we’ll know, what we’ll do if it does, and who owns the call. I write things down, I make tradeoffs explicit, and I keep governance lightweight but real - so it actually gets used when the release is tense and time is short.
+I prefer a small number of strong artefacts that actually get used: a clear readiness definition, a live risk register, a single source of truth for release status, and decision logs that don’t rely on people remembering what was said in a meeting.
+
+Automation matters, but as a signal - not an identity. I’ll use it to back release confidence, reduce noise (flaky tests, false alarms), and keep teams honest about what’s actually covered.
 
 ## If you’re hiring
 
-I’m a fit for Release Manager, QA Manager, and technical delivery roles where you want someone who can run the room, surface risk early, and ship without drama.
+I’m a fit for Release Manager, QA/Test Manager, and Technical Delivery Manager roles where you want someone who can run the room, surface risk early, and keep shipping calm and predictable.
 
 Message me on LinkedIn.
 
