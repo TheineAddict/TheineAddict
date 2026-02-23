@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Null Expected banner" width="100%" />
 
-# Ade 😼
+# Hi, I'm Ade! 🌵
 
 Release readiness + QA governance + technical delivery.  
 I make shipping predictable - without turning QA into a gate or a vibe. 🚀🧪
