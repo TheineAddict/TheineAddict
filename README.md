@@ -11,8 +11,6 @@ I make shipping predictable - without turning QA into a gate or a vibe. 🚀🧪
 
 </div>
 
-> Null Expected - A QA thought hub. What did you expect? ⚡
-
 <p align="center">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
