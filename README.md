@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Null Expected banner" width="100%" />
 
-# Andreea (Ade) Vitan
+# Ade
 
 Release readiness + QA governance + technical delivery.  
 I make shipping predictable - without turning QA into a gate or a vibe.
@@ -38,7 +38,15 @@ I make shipping predictable - without turning QA into a gate or a vibe.
 
 Null Expected is where I write (and build) around release readiness, QA governance, and delivery decision-making - the work that decides whether a team ships safely or just ships loudly.
 
-If you want the longer-form version, my books live here: https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN
+If you want the longer-form version, my books are here: <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Andreea Vitan - Author Page</a>
+
+## A note on how I think
+
+Quality isn't accidental - and silence still speaks.
+
+Intention over output. Understanding over coverage. Collaboration over gatekeeping. Curiosity over certainty. Patterns over tools. And when "null" is expected - silence is earned trust.
+
+[The Null Expected Manifesto](https://www.nullexpected.com/manifesto) (v1.0)
 
 ## What I do in real teams
 
