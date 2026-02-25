@@ -73,6 +73,6 @@ I’m a fit for Release Manager, QA/Test Manager, and Technical Delivery Manager
 <details>
 <summary><b>Extra nerd stuff</b> 🎮🌵</summary>
 
-I’ve played World of Warcraft since 2006 - Combat Rogue called <b>Theine</b>. Also: BG3, D&D, fantasy books, and an unreasonable number of cacti and succulents. 🗡️🐉📚🌵
+I’ve played World of Warcraft since 2006 - combat rogue called <b>Theine</b>. Also: BG3, D&D, Civ VI, AoE II, fantasy books, and an unreasonable number of cacti and succulents. 🗡️🐉📚🌵
 
 </details>
