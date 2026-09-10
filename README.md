@@ -4,75 +4,86 @@
 
 # What did you expect? 🌵
 
-Release readiness + QA governance + technical delivery.  
-I make shipping predictable - without turning QA into a gate or a vibe. 🚀🧪
+**QA & testing · Test management · Release readiness · Technical delivery**
 
-<a href="https://nullexpected.com">nullexpected.com</a> • <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Amazon books</a> • <a href="https://www.linkedin.com/in/andreeavitan/">LinkedIn</a>
+I’m Andreea Vitan, an independent consultant helping teams test their products, establish practical QA processes and coordinate releases.
+
+[Null Expected](https://nullexpected.com) · [LinkedIn](https://www.linkedin.com/in/adevitan/)
 
 </div>
 
-<p align="center">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-</p>
-
-<p align="center">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-</p>
-
 ---
 
-## Null Expected 🐾
+## Hi, I’m Andreea 👋
 
-Null Expected is where I write (and build) around release readiness, QA governance, and delivery decisions - the work that decides whether a team ships safely or just ships loudly. 🔥
+I have 13+ years of experience across software testing, QA leadership and release delivery, working with distributed teams on web, desktop, mobile and API products.
 
-If you want the longer-form version, my books are here: <a href="https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN">Amazon Author Page</a> 📚
+My background includes LSEG, UBS through Netcentric, Avangate and Vodafone. Today, I work independently through **Null Expected**, combining hands-on testing with test strategy, release coordination and practical improvements to how teams work.
 
-## A note on how I think 🧠
+I’m comfortable leading the testing effort, investigating a difficult defect, reviewing acceptance criteria or coordinating dependencies across teams.
 
-Quality isn't accidental - and silence still speaks.
+## Open to opportunities
 
-Intention over output. Understanding over coverage. Collaboration over gatekeeping. Curiosity over certainty. Patterns over tools. And when "null" is expected - silence is earned trust. 🕯️✅
+I’m looking for **fully remote work from Romania**, across:
 
-[The Null Expected Manifesto](https://www.nullexpected.com/manifesto) (v1.0)
+- **Hands-on QA:** senior QA, test analyst, exploratory, API, integration and acceptance testing.
+- **Test leadership:** Test/QA Manager, Test Lead, UAT Lead and Test Coordinator.
+- **Release and delivery:** Release Manager, release coordination, technical delivery and delivery assurance.
+- **Consulting:** QA setup, test-process improvement, interim leadership and project-based testing.
 
-## What I do in real teams 🧯
+I’m interested in hands-on roles as well as management work. The responsibilities and team matter more to me than the title.
 
-I work where “we’ll fix it later” becomes an incident, a rollback, or a very expensive meeting. 🙃
+**EU citizen · Employment or B2B/PFA · Contract, interim and part-time work welcome**
 
-I pull release risk forward. I make readiness visible early enough to change outcomes. I’m usually the person wiring together the evidence behind “are we actually ready?”, and making sure the decision is explicit (including what we’re accepting, and why). 👀🧾
+I’m also interested in EU-institution supplier assignments involving testing, UAT, deliverable acceptance and release readiness.
 
-In practice: release planning and coordination across squads, dependencies and cutovers, risk and defect governance focused on impact, and a lightweight but real decision cadence (readiness criteria, quality gates, go/no-go inputs, clear comms). 🧩📣
+[Get in touch on LinkedIn](https://www.linkedin.com/in/adevitan/)
 
-I’m a Certified Scrum Master and I’m comfortable facilitating planning, keeping the room aligned, and tightening ways of working without turning everything into ceremony. 🌀
+## What I do
 
-## How I work 🧷
+| Area | Practical work |
+| --- | --- |
+| Hands-on testing | Manual, exploratory and regression testing; REST APIs and integrations; accessibility, localisation and cross-browser validation; defect investigation. |
+| Test leadership and acceptance | Risk-based test strategy, requirements review, acceptance criteria, UAT coordination, supplier deliverable validation and traceable test evidence. |
+| Release and technical delivery | Release planning, dependencies, readiness criteria, defect triage, blocker follow-up and go/no-go recommendations. |
+| QA consultancy | QA service definitions, tooling choices, test-design standards, Jira defect workflows and reusable test strategies. |
+| Team collaboration | Planning, backlog clarification, Scrum facilitation and practical improvements to workflows and handoffs. |
 
-No QA theatre. Just signals that hold up under pressure. 🎯
+## Current work through Null Expected
 
-I keep artefacts few and useful: a clear readiness definition, a live risk register, one place to see release status, and decision notes you can trust a week later. Tradeoffs go on the record. Ownership is explicit. The goal is calm execution when the release is tense and time is short. 🧊⚔️
+Recent consultancy work includes helping a software consultancy establish its QA offering:
 
-Automation matters, but as a signal - not an identity. I use it to back release confidence, reduce noise, and keep teams honest about what’s actually covered. 🤖🔎
+- A client-facing service catalogue covering manual, hybrid and full automation services, with pricing, tools, expertise and skills requirements.
+- Internal standards for test-case design, bug reporting, Jira defect structure and lifecycle.
+- A company test strategy defining tools, environments, work allocation and deliverables for each service tier, ready to adapt to new projects.
 
-## If you’re hiring 👋
+I also provide hands-on product validation, including e-commerce storefronts, backend APIs, payment flows and release-readiness checks.
 
-I’m a fit for Release Manager, QA/Test Manager, and Technical Delivery Manager roles where you want someone who can run the room, surface risk early, and keep shipping predictable. 🚦
+## Tools I work with
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andreeavitan/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Say%20hi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- **Test management and traceability:** Jira, Xray, TestRail, Zephyr, Confluence.
+- **API and data validation:** Postman, Newman, Swagger/OpenAPI, SQL.
+- **Release and delivery coordination:** ServiceNow, Power BI, GitHub, GitLab CI/CD, GitHub Actions.
+- **Automation support:** Playwright, Cypress, Selenium; maintaining useful checks, investigating failures and reviewing CI results.
+- **CMS and compatibility:** Adobe Experience Manager, Adobe Campaign, BrowserStack.
+
+I use AI-assisted workflows for requirements analysis, test design, defect investigation and reporting, with source checks and human review.
+
+**Certifications:** ISTQB Foundation · Professional Scrum Master I (PSM I)
+
+## Writing and approach
+
+[Null Expected](https://nullexpected.com) is also where I write about testing, release readiness, QA governance and technical delivery.
+
+I value clear evidence, useful documentation and shared responsibility for quality. Processes should help people understand the work and make decisions.
+
+[Read the Null Expected Manifesto](https://www.nullexpected.com/manifesto)
 
 <details>
 <summary><b>Extra nerd stuff</b> 🎮🌵</summary>
 
-I’ve played World of Warcraft since 2006 - combat rogue called <b>Theine</b>. Also: BG3, D&D, Civ VI, AoE II, fantasy books, and an unreasonable number of cacti and succulents. 🗡️🐉📚🌵
+I’ve played World of Warcraft since 2006 - combat rogue called **Theine**. Also: BG3, D&D, Civ VI, AoE II, fantasy books, and an unreasonable number of cacti and succulents.
+
+I write books, too: [Amazon Author Page](https://www.amazon.com/stores/Andreea-Vitan/author/B0GF1PPWMN).
 
 </details>
