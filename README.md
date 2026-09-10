@@ -6,7 +6,7 @@
 
 **QA & testing · Test management · Release readiness · Technical delivery**
 
-I’m Andreea Vitan, an independent consultant helping teams test their products, establish practical QA processes and coordinate releases.
+I’m an independent consultant helping teams test their products, establish practical QA processes and coordinate releases.
 
 [Null Expected](https://nullexpected.com) · [LinkedIn](https://www.linkedin.com/in/adevitan/)
 
@@ -18,7 +18,7 @@ I’m Andreea Vitan, an independent consultant helping teams test their products
 
 I have 13+ years of experience across software testing, QA leadership and release delivery, working with distributed teams on web, desktop, mobile and API products.
 
-My background includes LSEG, UBS through Netcentric, Avangate and Vodafone. Today, I work independently through **Null Expected**, combining hands-on testing with test strategy, release coordination and practical improvements to how teams work.
+My background spans large-scale enterprise platforms and SaaS products across financial services, payments and telecoms. Today, I work independently through **Null Expected**, combining hands-on testing with test strategy, release coordination and practical improvements to how teams work.
 
 I’m comfortable leading the testing effort, investigating a difficult defect, reviewing acceptance criteria or coordinating dependencies across teams.
 
@@ -76,8 +76,6 @@ I use AI-assisted workflows for requirements analysis, test design, defect inves
 [Null Expected](https://nullexpected.com) is also where I write about testing, release readiness, QA governance and technical delivery.
 
 I value clear evidence, useful documentation and shared responsibility for quality. Processes should help people understand the work and make decisions.
-
-[Read the Null Expected Manifesto](https://www.nullexpected.com/manifesto)
 
 <details>
 <summary><b>Extra nerd stuff</b> 🎮🌵</summary>
