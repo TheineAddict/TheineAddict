@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Null Expected banner" width="100%" />
+<img src="GitHub_banner.png" alt="Null Expected banner" width="100%" />
 
 # What did you expect? 🌵
 
